@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OSKI**
 
-- 🌱 I’m currently learning **Machine Learning (advanced)**
+- 🌱 I’m currently learning **Machine Learning (advanced) and Web3**
 
 - 📫 How to reach me **ayaanninja2403@gmail.com**
 
