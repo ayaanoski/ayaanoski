@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayaan Adil</h1>
-<h3 align="center">A machine learning and computer vision enthusiast</h3>
+<h3 align="center">A full stack developer straight out of kolkata , with a keen interest in web3 and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanoski&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanoski" /> </p>
 
-- 🔭 I’m currently working on **OSKI**
+- 🔭 I’m currently working on **8-bit-browser**
 
 - 🌱 I’m currently learning **Machine Learning (advanced) and Web3**
 
