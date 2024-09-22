@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@_ayaaanadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_ayaaanadil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayaan-adil-371137268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@_ayaaanadil" height="30" width="40" /></a>
 </p>
 
 
