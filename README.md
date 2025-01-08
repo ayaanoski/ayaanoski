@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://i.pinimg.com/1200x/90/70/32/9070324cdfc07c68d60eed0c39e77573.jpg
+[https://i.pinimg.com/1200x/90/70/32/9070324cdfc07c68d60eed0c39e77573.jpg](https://pin.it/7ps5E04dU)
 🔭 I’m currently working on 8-bit-browser<br><br>🌱 I’m currently learning Machine Learning (advanced) and Web3<br><br>📫 How to reach me ayaanninja2403@gmail.com<br><br>⚡ Fun fact I may look funny , thats it i am funny
 
 
