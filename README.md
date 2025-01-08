@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/c5a04f32-1406-4dfd-9510-5ba8d09d567f)
+
 🔭 I’m currently working on 8-bit-browser<br><br>🌱 I’m currently learning Machine Learning (advanced) and Web3<br><br>📫 How to reach me ayaanninja2403@gmail.com<br><br>⚡ Fun fact I may look funny , thats it i am funny
 
 
